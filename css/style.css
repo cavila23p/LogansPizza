@@ -1,0 +1,54 @@
+
+body {
+	margin: 0;
+	padding: 0;
+}
+
+hr {
+	margin: 100px 0;
+}
+
+ul hr {
+	margin: 10px;
+	padding: 0;	
+}
+
+#logansNavbar {
+	margin: 120px;		
+}
+
+#logansLogo {
+	
+	font-family: 'Kaushan Script', cursive;
+	font-size: 40px;
+}
+
+.container-fluid button {
+	outline: none;
+}
+
+#pizzaDeal-image {
+	text-align: center;
+	display:block; 
+	max-width: 100%;
+	height: auto;	
+}
+
+#greatVibes-font {
+	text-align: center;
+	font-family: 'Great Vibes', cursive;	
+}
+
+ .menu-noBulletPoints {
+	list-style-type: none;
+}
+
+.prices {
+	font-size: 16px;
+	font-weight: bold;
+}
+
+.specials-description {
+	font-size: 0.85rem;
+}
+
