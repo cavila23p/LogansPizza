@@ -62,4 +62,8 @@ ul hr {
 		padding: 50px 0;		
 	}
 
+	.menu-content ul {
+		padding: 0 20px;
+	}
+
 }
