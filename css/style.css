@@ -52,3 +52,14 @@ ul hr {
 	font-size: 0.85rem;
 }
 
+.footer {
+	padding: 50px;
+}
+
+
+@media only screen and (max-width: 768px){
+	.menu-content .row .col{
+		padding: 50px 0;		
+	}
+
+}
